@@ -1,0 +1,36 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/usr/include/eigen3",
+            "-I/usr/include/python2.7",
+            "-std=c++11",
+            "-Wall",
+            "-O3",
+            "-march=native",
+            "-o",
+            "CMakeFiles/main.dir/main.cpp.o",
+            "../main.cpp"
+        ],
+        "directory": "/home/zqj/1git_code/PSO_PID_param_auto_adjust/source/build",
+        "file": "../main.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/usr/include/eigen3",
+            "-I/usr/include/python2.7",
+            "-std=c++11",
+            "-Wall",
+            "-O3",
+            "-march=native",
+            "-o",
+            "CMakeFiles/main.dir/key_value.cpp.o",
+            "../key_value.cpp"
+        ],
+        "directory": "/home/zqj/1git_code/PSO_PID_param_auto_adjust/source/build",
+        "file": "../key_value.cpp"
+    }
+]

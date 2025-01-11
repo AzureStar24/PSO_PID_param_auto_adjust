@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -O3 -march=native CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/key_value.cpp.o -o main  /usr/lib/x86_64-linux-gnu/libpython2.7.so
